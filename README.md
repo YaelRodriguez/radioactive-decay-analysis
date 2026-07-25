@@ -83,6 +83,7 @@ Output: `figures/final_fit.png`.
 
 ## Repository structure
 
+```
 radioactive-decay-analysis/
 ├── data/
 │ └── decay_data.csv
@@ -102,12 +103,13 @@ radioactive-decay-analysis/
 │ └── 01_analysis.ipynb
 ├── requirements.txt
 └── README.md
+```
 
 ## How to reproduce
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/radioactive-decay-analysis.git
+git clone https://github.com/YaelRoMa/radioactive-decay-analysis.git
 cd radioactive-decay-analysis
 
 # Install dependencies
